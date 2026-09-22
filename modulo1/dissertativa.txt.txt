@@ -1,0 +1,3 @@
+Leia e armazene os números 9 e n = 7 
+Processe (n-10) * 10 + (10-n)
+imprima 9 x n = 
