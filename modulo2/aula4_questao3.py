@@ -19,4 +19,4 @@ valor_p3 = preç_p3 * q3
 
 valor_f = valor_p1 + valor_p2 + valor_p3
 
-print(f'Total: R$ {valor_f}')
+print(f'Total: R$ {valor_f:,.2f}')
